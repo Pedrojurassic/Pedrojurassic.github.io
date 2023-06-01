@@ -1,4 +1,4 @@
-## (Nombre del proyecto)
+## DinoInvestigación
 
 Proyecto de Creación Multimedia Interactiva de la  Facultad de Bellas Artes de la Univesidad de Granada
 
@@ -8,29 +8,29 @@ Proyecto de Creación Multimedia Interactiva de la  Facultad de Bellas Artes de 
 
 
 
-**Titulo** : MI Proyecto(nombre)
+**Titulo** : DinoInvestigación
 
 **Web:**   (url github.io)
 
-**Autor:**  (Nombre apellidos)
+**Autor:**  Pedro Juan Flores Morales
 
-**Resumen** : Este proyecto busca contar las hitorias de migrantes jóvenes, siendo ellos mismos los protagonistas. Esta será una compilación de relatos y crónicas de sus experiencias, exponiendo su lucha de identidad y sentido de pertenencia, herencia migratoria, entre otros temas que abrirán un debate del tema.
+**Resumen** : Alguien ha robado un fémur del esqueleto del Tiranosauirio en el museo de arqueología y ha causado un estropicio, encuéntra quién es mientras aprendes sobre los dinosaurios del museo.
 
-**Estilo/género:**  Novela / juego / portfolio / documental... etc.
+**Estilo/género:**  Detective/ Aprendizaje
 
 **Logotipo** : (insertar imagen y breve justificación, si  tiene) 
 
 (insertar imágenes a resolucion de 100px alto)
 
-**Resolución:** 800x600px responsivo/o tamaño fijo (indicar la que has aplicado, y si es reescalable)
+**Resolución:** 800x600px
 
-**Probado en:**   (indicar dónde has probado que funciona: ej. Google Chrome / MS Edge... /móviles android )
+**Probado en:**   Google Chrome
 
-**Tamaño proyecto:** 14MB 
+**Tamaño proyecto:** 10MB
 
 **Licencia** Este proyecto tiene una Licencia CC Reconocimiento Compartir igual (CC BY-SA)
 
-**Fecha** : 14/05/2020
+**Fecha** : 10/6/2023
 
 **Medios** (donde se tiene presencia relacionada):
 
@@ -80,13 +80,13 @@ Metodología de desarrollo de productos multimedia basado en una metodología de
 
 **Motivación de la propuesta** 
 
-Este  proyecto es interesante porque ... 
+Este  proyecto es interesante porque puedes aprender sobre dinosaurios mientras investigas una situación un tanto peculiar que ha pasado en el museo de tu ciudad.
 
 
 
 **Publico / audiencia**
 
-- Orientado a 
+- Orientado a niños grandes y/o adultos jóvenes.
 
 
 
@@ -106,15 +106,15 @@ Este  proyecto es interesante porque ...
 
 ### Etapa 3: Problemas identificados
 
-(que consideras que no  funciona correctamente y por qué )
+Hay cosas que no son tan fluidas como me gustaría, además de que gran parte del juego no tienbe sonido, solo sonido ambiental.
 
 
 
 # 4. Conclusiones 
 
-(explica brevemente tu valoración, problemas que has detectado y que te gustaría hacer o mejorar en el futuro )
-
-
+He intentado unificar la estética del juego para que no hubiese nada que resaltara a mal.
+La historia, aun siendo simple, se me ha complicado mucho el crear todos los escenarios para justificar una u otra cosa. 
+Me ha gustado mucho la creación de este juego pero ha sido mucho trabajo el diseño de todo.
 
 
 
