@@ -18,7 +18,8 @@ Proyecto de Creación Multimedia Interactiva de la  Facultad de Bellas Artes de 
 
 **Estilo/género:**  Novela Gráfica/ Detectives-Aprendizaje
 
-**Logotipo** : (insertar imagen y breve justificación, si  tiene) 
+**Logotipo** : 
+El logo es el mismo título del juego pero cambiando la "o" de la palabra "dino" por una lupa de detective, que es la misma que lleva el detective Parasaurolophus en la pantala de Inicio.
 
 ![titulo](https://pedrojurassic.github.io/medios/titulo.png)
 
@@ -26,7 +27,7 @@ Proyecto de Creación Multimedia Interactiva de la  Facultad de Bellas Artes de 
 
 **Probado en:**   Google Chrome
 
-**Tamaño proyecto:** 10MB
+**Tamaño proyecto:** 19MB
 
 **Licencia** Este proyecto tiene una Licencia CC Reconocimiento Compartir igual (CC BY-SA)
 
@@ -34,18 +35,14 @@ Proyecto de Creación Multimedia Interactiva de la  Facultad de Bellas Artes de 
 
 **Medios** (donde se tiene presencia relacionada):
 
-- Github:
-- Twitter
-- Instagram
+- Github: https://pedrojurassic.github.io/index.html
 
-
-![girl](https://github.com/mgea/cmi20/blob/master/WalkingGirl_front01.png)
 
 # 2. Memoria del proyecto 
 
 ### 2.1 Storyboard: 
 
-
+![titulo](https://pedrojurassic.github.io/medios/esquema.png)
 
 (narra brevemente lo que sucede en tu proyecto, puedes usar 3-4 imágenes de apoyo)
 
