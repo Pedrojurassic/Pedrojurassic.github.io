@@ -14,13 +14,13 @@ Proyecto de Creación Multimedia Interactiva de la  Facultad de Bellas Artes de 
 
 **Autor:**  Pedro Juan Flores Morales
 
-**Resumen** : Alguien ha robado un fémur del esqueleto del Tiranosauirio en el museo de arqueología y ha causado un estropicio, encuéntra quién es mientras aprendes sobre los dinosaurios del museo.
+**Resumen** : Alguien ha robado un fémur del esqueleto del Tiranosauirio en el museo de arqueología y ha causado un estropicio, encuentra quién ha sido el causante mientras aprendes sobre los dinosaurios del museo.
 
-**Estilo/género:**  Detective/ Aprendizaje
+**Estilo/género:**  Novela Gráfica/ Detectives-Aprendizaje
 
 **Logotipo** : (insertar imagen y breve justificación, si  tiene) 
 
-(insertar imágenes a resolucion de 100px alto)
+https://github.com/mgea/cmi20/blob/master/WalkingGirl_front01.png
 
 **Resolución:** 800x600px
 
