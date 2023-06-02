@@ -10,7 +10,7 @@ Proyecto de Creación Multimedia Interactiva de la  Facultad de Bellas Artes de 
 
 **Titulo** : DinoInvestigación
 
-**Web:**   (url github.io)
+**Web:**   https://pedrojurassic.github.io/index.html
 
 **Autor:**  Pedro Juan Flores Morales
 
