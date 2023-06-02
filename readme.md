@@ -131,7 +131,8 @@ Tengo claro que el quiz va a ser algo que le voy a poner a mis amigos para ver c
 
 **Recursos y materiales audiovisuales:**
 
-* Musica:  https://pixabay.com/sound-effects/search/buttons/
+* Musica: https://legismusic.com/es/musica/jazz/ (música ambiente)
+   https://pixabay.com/sound-effects/search/buttons/ (sonido de botón)
 * Imágenes: Hechas por mí.
 * Tipografía: Hecha por mí.
 
