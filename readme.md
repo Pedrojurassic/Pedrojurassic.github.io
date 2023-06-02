@@ -20,7 +20,7 @@ Proyecto de Creación Multimedia Interactiva de la  Facultad de Bellas Artes de 
 
 **Logotipo** : (insertar imagen y breve justificación, si  tiene) 
 
-![titulo](https://github.com/Pedrojurassic/Pedrojurassic.github.io/medios/titulo.png)
+![titulo](https://pedrojurassic.github.io/medios/titulo.png)
 
 **Resolución:** 800x600px
 
