@@ -20,7 +20,7 @@ Proyecto de Creación Multimedia Interactiva de la  Facultad de Bellas Artes de 
 
 **Logotipo** : (insertar imagen y breve justificación, si  tiene) 
 
-https://github.com/mgea/cmi20/blob/master/WalkingGirl_front01.png
+![titulo](https://github.com/Pedrojurassic/Pedrojuraasic/medios/titulo.png)
 
 **Resolución:** 800x600px
 
