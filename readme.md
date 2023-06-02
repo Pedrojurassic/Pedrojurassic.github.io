@@ -42,7 +42,7 @@ El logo es el mismo título del juego pero cambiando la "o" de la palabra "dino"
 
 ### 2.1 Storyboard: 
 
-![titulo](https://pedrojurassic.github.io/medios/esquema.png)
+![esquema](https://pedrojurassic.github.io/medios/esquema.png)
 
 (narra brevemente lo que sucede en tu proyecto, puedes usar 3-4 imágenes de apoyo)
 
