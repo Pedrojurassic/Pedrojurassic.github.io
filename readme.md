@@ -44,15 +44,17 @@ El logo es el mismo título del juego pero cambiando la "o" de la palabra "dino"
 
 ### 2.1 Storyboard: 
 
+
 Así de primeras se me ocurrió hacer un juego tratando el tema de los dinosaurios, le estaba dando vueltas y vueltas a las ideas que se me iban ocurriendo pero no iban a ningún sitio.
 Un día pensé en hacer que se tuviera que encontrar algo, ¿pero el qué? Lo primero que se me vino a la cabeza fueron los huesos de dinosaurio en un museo, así que poco a poco fue saliendo la idea de que alguien va a robar en el museo local un hueso de dinosaurio y tienes que ir a investigar.
 En parte como quería hacerlo para niños quería hacer que los personajes y el protagonista fuesen dinosaurios.
 Pensé en que el resto de habitaciones del museo podrían dar pistas de los personajes, así que los pocibles culpables serían de especies que estuvieran en el museo.
 Posteriormente también añadí un par de datos más como ayuda para el quiz.
 
+Entonces, teniendo todo esto en cuenta, la historia del juego trata de que alguien por la noche ha robado el fémur de un Tiranosaurio del museo local y el director de dicho museo te llama para que te pases a investigar. En el museo buscando pistas puedes ver diferentes datos de los dinosaurios que hay expuestos allí, además de que investigando encontrarás la conexión muy sencilla entre las pistas y el dinosaurio causante de todo.
+Si te equivocas, mandarás a la cárcel a un civil inocente, mientas que si envias al culpable a la cárcel te sentirás realizado y con ganas del siguiente caso.
 
-
-(narra brevemente lo que sucede en tu proyecto, puedes usar 3-4 imágenes de apoyo)
+Además de todo esto, hay un quiz con preguntas sencillas y otras más complicadas para ponerte a prueba sobre cuánto sabes realmente de dinosaurios.
 
 
 
@@ -73,17 +75,18 @@ Metodología de desarrollo de productos multimedia basado en una metodología de
 
 ### Etapa 1: Ideación de proyecto
 
+
 **Investigación de campo** (propuestas inspiradoras para el proyecto)
 
 - Portfolio [Leonardi Web page](http://www.rleonardi.com/interactive-resume/) para idear cómo organizar el material
-- 
 
 
 
 **Motivación de la propuesta** 
 
-Este  proyecto es interesante porque puedes aprender sobre dinosaurios mientras investigas una situación un tanto peculiar que ha pasado en el museo de tu ciudad.
 
+Este  proyecto es interesante porque puedes aprender sobre dinosaurios mientras investigas una situación un tanto peculiar que ha pasado en el museo de tu ciudad.
+Además, a mí como creador me parece interesante el ver cómo hacen el quiz para ver cuánto saben de dinosaurios.
 
 
 **Publico / audiencia**
@@ -94,7 +97,6 @@ Este  proyecto es interesante porque puedes aprender sobre dinosaurios mientras 
 
 ### Etapa 2: Desarrollo / actividades realizadas
 
-(qué soluciones has planteado y cómo se han resuelto: juego, galería de fotos, grabación de video, etc.)
 
 -Para el juego he utilizado botones que llevan a otros momentos de la misma escena (o de otras en el caso del mapa) que se basan en el esquema.
 
@@ -107,6 +109,7 @@ Este  proyecto es interesante porque puedes aprender sobre dinosaurios mientras 
 ### Etapa 3: Problemas identificados
 
 Hay cosas que no son tan fluidas como me gustaría, además de que gran parte del juego no tienbe sonido, solo sonido ambiental. Estaría genial poder hacer que los personajes que son sospechosos estuvieran en alguna sala y pudieses interactuar con ellos y verlos. Además, el final es muy directo y sin mucha chicha, hubiera estado mejor que se desarrollaran las cosas más poco a poco, pero ya eran muchas cosas que dibujar.
+Quería insertar como una especie de pregunta final en el quiz, la cual diría "¿Cuál es tu dinosaurio favorito?" y que las respuestas me llegaran al correo, pero no sabía hacer eso así que descarté dicha idea, una pena.
 
 
 
@@ -129,7 +132,7 @@ Tengo claro que el quiz va a ser algo que le voy a poner a mis amigos para ver c
 **Recursos y materiales audiovisuales:**
 
 * Musica:  https://pixabay.com/sound-effects/search/buttons/
-* Imágenes:  Hechas por mí.
+* Imágenes: Hechas por mí.
 * Tipografía: Hecha por mí.
 
 **Herramientas utilizadas**
